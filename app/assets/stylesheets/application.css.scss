@@ -1,0 +1,25 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,100);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+#header-content {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
